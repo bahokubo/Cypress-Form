@@ -20,3 +20,6 @@ Sobre a configuração do ambiente...
 8- Por fim, execute o comando: npm run cypress:open
 
 Agora é só escrever o seu primeiro teste em um arquivo .spec.js :-)
+
+
+Se houverem dúvidas, mandem uma mensagem para mim: https://www.linkedin.com/in/barbaracasac/
