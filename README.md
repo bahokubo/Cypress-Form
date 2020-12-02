@@ -1,5 +1,5 @@
 # Cypress-Form
-Um repositório sobre alguns teste que realizei usando o Cypress para os alunos da Digital Innovation One! Bora aprender, galera :) 
+Um repositório sobre alguns testes que realizei usando o Cypress para os alunos da Digital Innovation One! Bora aprender, galera :) 
 
 Sobre a configuração do ambiente...
 
